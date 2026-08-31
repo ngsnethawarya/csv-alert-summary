@@ -7,6 +7,7 @@ This project reads a CSV file of security alerts and creates a simple summary.
 - Counts alerts by category
 - Counts alerts by severity
 - Prints a readable summary
+- 
 
 ## Why it matters
 Security analysts often review large numbers of alerts. Summarizing alerts helps identify patterns and priorities.
