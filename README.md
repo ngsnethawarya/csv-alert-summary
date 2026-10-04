@@ -10,7 +10,6 @@ This project reads a CSV file of security alerts and creates a simple summary.
   
 ## Why it matters
 Security analysts often review large numbers of alerts. Summarizing alerts helps identify patterns and priorities.
-
 ## Skills practiced
 - Python CSV handling
 - Alert review
